@@ -1,0 +1,21 @@
+$navbar-padding-horizontal:50px;
+$navbar-default-bg: #664570; 
+$navbar-default-link-color: #f3dbf9;
+$jumbotron-color: #f3dbf9;
+$jumbotron-bg: #b680ba;
+$btn-primary-bg: #59a593;
+$btn-primary-color: #fff;
+$navbar-default-brand-color:#79c69e;
+$navbar-default-brand-font-size: 45px;
+$navbar-default-link-hover-color: #b583c4;
+$body-bg: #f9eff9;
+$pagination-active-bg: #59a593;
+$pagination-color: #59a593;
+$pagination-border: #3d917d;
+$pagination-active-border: #3d917d;
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.center {
+    text-align: center;
+}
